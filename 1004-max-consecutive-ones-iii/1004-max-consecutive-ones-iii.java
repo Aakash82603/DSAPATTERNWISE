@@ -7,15 +7,17 @@ class Solution {
             if(nums[j]==0){
                 zerocount++;
             }
-            if(zerocount>k){
+            /*while*/ if(zerocount>k){
                 if(nums[l]==0){
                     zerocount--;
                 }
                  l++;
             }
+           // maxAns=Math.max(maxAns,j-l+1)
            
            
         }
+      //  return maxAns
         return nums.length-l;
         
     }
