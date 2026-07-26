@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 | [0485-max-consecutive-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
