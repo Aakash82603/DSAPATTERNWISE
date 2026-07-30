@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
