@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
+| [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -130,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0020-valid-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
