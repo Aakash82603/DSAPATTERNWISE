@@ -1,0 +1,136 @@
+class Solution {
+
+    private String freeSlotsFiller(long required, int length) {
+
+        StringBuilder str = new StringBuilder();
+
+        for (int digit = 9; digit >= 2; digit--) {
+
+            while (required % digit == 0) {
+
+                str.append((char) (digit + '0'));
+
+                required /= digit;
+            }
+        }
+
+        while (str.length() < length) {
+            str.append('1');
+        }
+
+        str.reverse();
+
+        return str.toString();
+    }
+
+
+    public String smallestNumber(String num, long t) {
+
+        int n = num.length();
+
+        // Check prime factors of t
+        long temp = t;
+
+        for (int primeFact : new int[]{2, 3, 5, 7}) {
+
+            while (temp % primeFact == 0) {
+                temp /= primeFact;
+            }
+        }
+
+        if (temp != 1) {
+            return "-1";
+        }
+
+
+        // remainingFactor[i] =
+        // remaining factor required after
+        // taking first i digits of num
+
+        long[] remainingFactor = new long[n + 1];
+
+        remainingFactor[0] = t;
+
+        for (int i = 0; i < n; i++) {
+
+            int digit = num.charAt(i) - '0';
+
+            if (digit == 0) {
+                break;
+            }
+
+            remainingFactor[i + 1] =
+                remainingFactor[i]
+                / gcd(remainingFactor[i], digit);
+        }
+
+
+        // num itself is valid
+        if (remainingFactor[n] == 1) {
+            return num;
+        }
+
+
+        // Find first zero
+        int zeroPos = num.indexOf('0');
+
+        int zeroIdx = n - 1;
+
+        if (zeroPos != -1) {
+            zeroIdx = zeroPos;
+        }
+
+
+        // Right -> Left
+        for (int i = zeroIdx; i >= 0; i--) {
+
+            long required = remainingFactor[i];
+
+            int freeSlots = n - 1 - i;
+
+
+            // Try bigger digit
+            for (int digit = num.charAt(i) - '0' + 1;
+                 digit <= 9;
+                 digit++) {
+
+                long furtherRequired =
+                    required / gcd(required, digit);
+
+
+                String requiredNumber =
+                    freeSlotsFiller(
+                        furtherRequired,
+                        freeSlots
+                    );
+
+
+                if (requiredNumber.length() == freeSlots) {
+
+                    return num.substring(0, i)
+                        + (char) (digit + '0')
+                        + requiredNumber;
+                }
+            }
+        }
+
+
+        // Need n + 1 digits
+        return freeSlotsFiller(t, n + 1);
+    }
+
+
+    // Greatest Common Divisor
+    private long gcd(long a, long b) {
+
+        while (b != 0) {
+
+            long temp = a % b;
+
+            a = b;
+            b = temp;
+        }
+
+        return a;
+    }
+}
