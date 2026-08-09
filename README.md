@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3731-find-missing-elements) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
@@ -169,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
