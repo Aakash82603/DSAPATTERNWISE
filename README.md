@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0485-max-consecutive-ones) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3517-smallest-palindromic-rearrangement-i) |
