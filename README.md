@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
