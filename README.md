@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0392-is-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0209-minimum-size-subarray-sum) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1510-stone-game-iv) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
