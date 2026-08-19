@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
