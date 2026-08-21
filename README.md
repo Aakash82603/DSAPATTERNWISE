@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
