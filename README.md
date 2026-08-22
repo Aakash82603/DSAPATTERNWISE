@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
