@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1872-stone-game-viii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
