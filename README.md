@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
