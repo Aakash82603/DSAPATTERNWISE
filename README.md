@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1406-stone-game-iii) |
