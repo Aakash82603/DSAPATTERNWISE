@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0918-maximum-sum-circular-subarray) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
