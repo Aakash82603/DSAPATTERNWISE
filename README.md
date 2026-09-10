@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
