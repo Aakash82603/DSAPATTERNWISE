@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2643-row-with-maximum-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2643-row-with-maximum-ones) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2643-row-with-maximum-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Interactive
 |  |
