@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1901-find-a-peak-element-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1901-find-a-peak-element-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2643-row-with-maximum-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Interactive
