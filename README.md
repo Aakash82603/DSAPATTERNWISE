@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0560-subarray-sum-equals-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
