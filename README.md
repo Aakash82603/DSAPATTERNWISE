@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0410-split-array-largest-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0643-maximum-average-subarray-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -436,10 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
@@ -477,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0901-online-stock-span) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
