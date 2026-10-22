@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2643-row-with-maximum-ones) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2104-sum-of-subarray-ranges) |
 ## Pigeonhole Principle
 |  |
 | ------- |
