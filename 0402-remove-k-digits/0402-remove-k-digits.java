@@ -38,3 +38,5 @@ class Solution {
         return ans.toString();// string builder to string
     }
 }
+// time complexity : 0(n)
+// space complexity:0(n)
