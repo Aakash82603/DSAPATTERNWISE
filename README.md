@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -274,12 +275,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0496-next-greater-element-i) |
@@ -499,10 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
