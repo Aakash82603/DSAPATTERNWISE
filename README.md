@@ -395,16 +395,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Queue
 |  |
@@ -517,4 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0239-sliding-window-maximum) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
