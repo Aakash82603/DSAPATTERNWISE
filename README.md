@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0224-basic-calculator) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0496-next-greater-element-i) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0127-word-ladder) |
 | [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Aakash82603/DSAPATTERNWISE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
